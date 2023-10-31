@@ -1,2 +1,2 @@
 # osuprojekt
-[osu](https://github.com/lesnijahoda/osuprojekt.git)
+[osu](https://github.com/lesnijahoda/osuprojekt/)
